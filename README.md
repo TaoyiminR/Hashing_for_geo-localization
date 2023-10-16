@@ -8,5 +8,7 @@ In this paper, we undertake the task of fast geolocalization of a query ground i
 
 # Datasets
 We adopt two datasets to verify our method, including CVUSA and CVACT dataset. 
+
 CVUSA dataset: The dataset can be accessed from https://github.com/viibridges/crossnet
+
 CVACT dataset: The dataset can be accessed from https://github.com/Liumouliu/OriCNN
