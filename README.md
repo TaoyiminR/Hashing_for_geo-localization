@@ -10,3 +10,8 @@ In this paper, we undertake the task of fast geolocalization of a query ground i
 We adopt two datasets to verify our method, including CVUSA and CVACT dataset.    
   CVUSA dataset: The dataset can be accessed from https://github.com/viibridges/crossnet  
   CVACT dataset: The dataset can be accessed from https://github.com/Liumouliu/OriCNN  
+
+# Codes
+You can use the train.py to train the feature extraction model and use the test.py to test this model.  
+After obtain the feature descriptors of the image, you can use the encoding.py to train and encode the image.  
+The file location_clustering.py is used to geographically cluster based localization.
