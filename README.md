@@ -15,3 +15,6 @@ We adopt two datasets to verify our method, including CVUSA and CVACT dataset.
 You can use the train.py to train the feature extraction model and use the test.py to test this model.  
 After obtain the feature descriptors of the image, you can use the encoding.py to train and encode the image.  
 The file location_clustering.py is used to geographically cluster based localization.
+
+# Publication
+This work will be published in TGRS 2023, and if this work can help you, please cite it.
