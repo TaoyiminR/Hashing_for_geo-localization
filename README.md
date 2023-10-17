@@ -12,6 +12,7 @@ We adopt two datasets to verify our method, including CVUSA and CVACT dataset.
   CVACT dataset: The dataset can be accessed from https://github.com/Liumouliu/OriCNN  
 
 # Codes
+You should run the view_converter.py firstly to convert the view of the aerial image to ground view image.   
 You can use the train.py to train the feature extraction model and use the test.py to test this model.  
 After obtain the feature descriptors of the image, you can use the encoding.py to train and encode the image.  
 The file location_clustering.py is used to geographically cluster based localization.
